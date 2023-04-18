@@ -1,22 +1,15 @@
-2023/04/18-08:47:55.912 a1a Reusing MANIFEST /workspace/chat_whatsapp/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/18-08:47:55.913 a1a Recovering log #124
-2023/04/18-08:47:56.108 a1a Reusing old log /workspace/chat_whatsapp/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000124.log 
-2023/04/18-08:48:14.881 a21 Level-0 table #135: started
-2023/04/18-08:48:14.900 a21 Level-0 table #135: 1086939 bytes OK
-2023/04/18-08:48:14.900 a21 Delete type=0 #124
-2023/04/18-08:48:15.017 a16 Compacting 1@1 + 6@2 files
-2023/04/18-08:48:15.083 a16 Generated table #136@1: 42461 keys, 2217882 bytes
-2023/04/18-08:48:15.102 a16 Generated table #137@1: 2707 keys, 2148907 bytes
-2023/04/18-08:48:15.135 a16 Generated table #138@1: 13712 keys, 2192377 bytes
-2023/04/18-08:48:15.178 a16 Generated table #139@1: 20425 keys, 2194192 bytes
-2023/04/18-08:48:15.258 a16 Generated table #140@1: 85990 keys, 2233079 bytes
-2023/04/18-08:48:15.303 a16 Generated table #141@1: 59811 keys, 1413730 bytes
-2023/04/18-08:48:15.303 a16 Compacted 1@1 + 6@2 files => 12400167 bytes
-2023/04/18-08:48:15.304 a16 compacted to: files[ 0 0 6 0 0 0 0 ]
-2023/04/18-08:48:15.304 a16 Delete type=2 #127
-2023/04/18-08:48:15.304 a16 Delete type=2 #128
-2023/04/18-08:48:15.304 a16 Delete type=2 #129
-2023/04/18-08:48:15.304 a16 Delete type=2 #130
-2023/04/18-08:48:15.304 a16 Delete type=2 #131
-2023/04/18-08:48:15.304 a16 Delete type=2 #132
-2023/04/18-08:48:15.304 a16 Delete type=2 #135
+2023/04/18-09:11:39.713 60b Reusing MANIFEST /workspace/chat_whatsapp/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/18-09:11:39.714 60b Recovering log #142
+2023/04/18-09:11:39.747 60b Reusing old log /workspace/chat_whatsapp/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000142.log 
+2023/04/18-09:19:53.051 609 Level-0 table #152: started
+2023/04/18-09:19:53.071 609 Level-0 table #152: 1255827 bytes OK
+2023/04/18-09:19:53.071 609 Delete type=0 #142
+2023/04/18-09:20:58.098 64b Compacting 1@1 + 6@2 files
+2023/04/18-09:20:58.146 64b Generated table #153@1: 31051 keys, 2194148 bytes
+2023/04/18-09:20:58.163 64b Generated table #154@1: 2568 keys, 2150053 bytes
+2023/04/18-09:20:58.198 64b Generated table #155@1: 19035 keys, 2214525 bytes
+2023/04/18-09:20:58.249 64b Generated table #156@1: 27984 keys, 2197160 bytes
+2023/04/18-09:20:58.311 64b Generated table #157@1: 76609 keys, 2218709 bytes
+2023/04/18-09:20:58.372 64b Generated table #158@1: 80694 keys, 1913489 bytes
+2023/04/18-09:20:58.372 64b Compacted 1@1 + 6@2 files => 12888084 bytes
+2023/04/18-09:20:58.373 64b compacted to: files[ 0 0 6 0 0 0 0 ]
