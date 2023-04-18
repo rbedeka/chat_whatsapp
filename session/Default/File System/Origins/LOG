@@ -1,2 +1,3 @@
-2023/04/18-13:42:44.731 83c2 Creating DB /home/veer/projects/ts/projects/whatsapp-chatgpt/session/Default/File System/Origins since it was missing.
-2023/04/18-13:42:44.743 83c2 Reusing MANIFEST /home/veer/projects/ts/projects/whatsapp-chatgpt/session/Default/File System/Origins/MANIFEST-000001
+2023/04/18-08:47:55.983 a13 Reusing MANIFEST /workspace/chat_whatsapp/session/Default/File System/Origins/MANIFEST-000001
+2023/04/18-08:47:55.983 a13 Recovering log #3
+2023/04/18-08:47:55.983 a13 Reusing old log /workspace/chat_whatsapp/session/Default/File System/Origins/000003.log 

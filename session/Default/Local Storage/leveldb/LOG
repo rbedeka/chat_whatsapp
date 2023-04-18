@@ -1,2 +1,3 @@
-2023/04/18-13:42:41.866 8381 Creating DB /home/veer/projects/ts/projects/whatsapp-chatgpt/session/Default/Local Storage/leveldb since it was missing.
-2023/04/18-13:42:41.874 8381 Reusing MANIFEST /home/veer/projects/ts/projects/whatsapp-chatgpt/session/Default/Local Storage/leveldb/MANIFEST-000001
+2023/04/18-08:47:55.137 a16 Reusing MANIFEST /workspace/chat_whatsapp/session/Default/Local Storage/leveldb/MANIFEST-000001
+2023/04/18-08:47:55.138 a16 Recovering log #3
+2023/04/18-08:47:55.138 a16 Reusing old log /workspace/chat_whatsapp/session/Default/Local Storage/leveldb/000003.log 
